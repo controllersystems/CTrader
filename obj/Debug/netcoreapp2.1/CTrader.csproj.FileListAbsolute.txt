@@ -1,0 +1,14 @@
+/Users/rodrigocruz/Documents/GitHub/CTrader/bin/Debug/netcoreapp2.1/CTrader.deps.json
+/Users/rodrigocruz/Documents/GitHub/CTrader/bin/Debug/netcoreapp2.1/CTrader.runtimeconfig.json
+/Users/rodrigocruz/Documents/GitHub/CTrader/bin/Debug/netcoreapp2.1/CTrader.runtimeconfig.dev.json
+/Users/rodrigocruz/Documents/GitHub/CTrader/bin/Debug/netcoreapp2.1/CTrader.dll
+/Users/rodrigocruz/Documents/GitHub/CTrader/bin/Debug/netcoreapp2.1/CTrader.pdb
+/Users/rodrigocruz/Documents/GitHub/CTrader/obj/Debug/netcoreapp2.1/CTrader.csprojAssemblyReference.cache
+/Users/rodrigocruz/Documents/GitHub/CTrader/obj/Debug/netcoreapp2.1/CTrader.csproj.CoreCompileInputs.cache
+/Users/rodrigocruz/Documents/GitHub/CTrader/obj/Debug/netcoreapp2.1/CTrader.RazorAssemblyInfo.cache
+/Users/rodrigocruz/Documents/GitHub/CTrader/obj/Debug/netcoreapp2.1/CTrader.RazorAssemblyInfo.cs
+/Users/rodrigocruz/Documents/GitHub/CTrader/obj/Debug/netcoreapp2.1/CTrader.AssemblyInfoInputs.cache
+/Users/rodrigocruz/Documents/GitHub/CTrader/obj/Debug/netcoreapp2.1/CTrader.AssemblyInfo.cs
+/Users/rodrigocruz/Documents/GitHub/CTrader/obj/Debug/netcoreapp2.1/CTrader.RazorTargetAssemblyInfo.cache
+/Users/rodrigocruz/Documents/GitHub/CTrader/obj/Debug/netcoreapp2.1/CTrader.dll
+/Users/rodrigocruz/Documents/GitHub/CTrader/obj/Debug/netcoreapp2.1/CTrader.pdb
